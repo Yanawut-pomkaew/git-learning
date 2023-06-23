@@ -31,7 +31,7 @@ public class App {
             System.out.println("Name : " + students.get(i).getName());
             System.out.println("Age : " + students.get(i).getAge());
             System.out.println("GPA : " + students.get(i).getGpa());
-            System.out.println("---------------------------------------");
+            System.out.println("-------------------------------------");
             
         }
         sc.close();
