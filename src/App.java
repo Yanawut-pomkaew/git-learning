@@ -4,9 +4,10 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
 
-        ArrayList<Student> students = new ArrayList<Student>();
+        ArrayList<Student> students = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
 
+        System.out.print("Enter name : ");
         String name1 = sc.nextLine();
         Student student1 = new Student();
 
