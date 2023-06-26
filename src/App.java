@@ -34,6 +34,8 @@ public class App {
             System.out.println("-------------------------------------");
             
         }
+
+        System.out.println("Total : 2 persons");
         sc.close();
     }
 }
